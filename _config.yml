@@ -1,0 +1,10 @@
+# MARKDOWN FLAVOUR
+#
+# There are numerous ‘flavours’ (super sets) of Markdown.
+# We opt for kramdown: https://kramdown.gettalong.org/
+#
+# This is b/c kramdown has support for the Markdown super set goodies like
+# definition lists, abbreviations, and footnotes.
+#
+# Syntax reference: https://kramdown.gettalong.org/syntax.html
+markdown: GFM
